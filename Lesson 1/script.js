@@ -1,0 +1,1 @@
+alert('Press OK if You like this')
